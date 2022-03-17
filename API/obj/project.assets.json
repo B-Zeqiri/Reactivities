@@ -1313,11 +1313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\API\\API.csproj",
+      "projectPath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\api\\API.csproj",
       "packagesPath": "C:\\Users\\besar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\API\\obj\\",
+      "outputPath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\besar\\AppData\\Roaming\\NuGet\\NuGet.Config"
