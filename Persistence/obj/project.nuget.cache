@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iiCL3G052PY5qQ4gsYQyQKz9imqNLTWjPslIC9eTNdcpSl6GF2KNTd2+JGtHSq3i7F+LOZA8LkwO/Q7rZqqqLg==",
+  "dgSpecHash": "5UuJEjtdbunX6zV7OIpURs1wIQZCzC1WVZcyfErjHVwmQvzwii3qhjwv8kMoLxjOYoegQFTYbVJilW14UESk9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\besar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\besar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\besar\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.4\\microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "C:\\Users\\besar\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\besar\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
