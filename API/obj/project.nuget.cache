@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Odg6Qf9qd+aRtMaiwCtFh1cIVySWm+WdyqQqpNoOxBKqcG5iFjNdCfvuIe0AeD0rvZrkliuBktfnQa+W4UebQ==",
+  "dgSpecHash": "egCW1sU5+e+/wFyYzG7t5qV+mb0CWP1ffiUgFCM3WNgHDmkKBexIUAcg/s/3jVpCv7Cx7Q7W7x25uSruKwGZbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\besar\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\besar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
