@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/D0dY4ZZfGkD4xpe2ovNnSQ8X83XAB1NZmCxJ+R5cKbiwjjeh/bf1PBJ+WrNJmBB9hU8VXt1tDheWK7Fr+ASQ==",
+  "dgSpecHash": "5UuJEjtdbunX6zV7OIpURs1wIQZCzC1WVZcyfErjHVwmQvzwii3qhjwv8kMoLxjOYoegQFTYbVJilW14UESk9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\besar\\OneDrive\\Desktop\\Udemy\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\besar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\besar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
